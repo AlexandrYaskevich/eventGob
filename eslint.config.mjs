@@ -20,9 +20,8 @@ export default [
   {
     files: ["**/*.test.js"],
     ...jest.configs["flat/recommended"],
-    rules: {
-      ...jest.configs["flat/recommended"].rules,
-      "jest/prefer-expect-assertions": "off",
-    },
+    rules: 
+      { "jest/no-deprecated-functions": 0 }
+    ,
   },
 ];
