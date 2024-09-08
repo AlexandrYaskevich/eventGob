@@ -49,12 +49,12 @@
   "description": "[Руководство по настройке Webpack](https://webpack.js.org/guides/)\r [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)\r ![CI](https://github.com/<git@github.com:AlexandrYaskevich/workDom.git>/<git@github.com:AlexandrYaskevich/workDom.gitY>/actions/workflows/web.yml/badge.svg)",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:AlexandrYaskevich/GoblinaddEventListener.git"
+    "url": "git+ssh://git@github.com:AlexandrYaskevich/eventGob.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexandrYaskevich/GoblinaddEventListener/issues"
+    "url": "https://github.com/AlexandrYaskevich/eventGob/issues"
   },
-  "homepage": "https://github.com/AlexandrYaskevich/GoblinaddEventListener#readme"
+  "homepage": "https://github.com/AlexandrYaskevich/eventGob#readme"
 }
