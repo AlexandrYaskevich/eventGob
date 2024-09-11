@@ -1,4 +1,3 @@
-import pluginJs from "@eslint/js";
 import tseslint from "typescript-eslint";
 import pluginVue from "eslint-plugin-vue";
 import vueParser from 'vue-eslint-parser';
